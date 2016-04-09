@@ -1,0 +1,67 @@
+{
+	"ImportPath": "github.com/buldo/echo-go-tg-bot",
+	"GoVersion": "go1.6",
+	"GodepVersion": "v62",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/botanio/sdk/go",
+			"Rev": "ba51db66097421b1c6f43adea9418bdbf1980ee0"
+		},
+		{
+			"ImportPath": "github.com/codegangsta/inject",
+			"Comment": "v1.0-rc1-10-g33e0aa1",
+			"Rev": "33e0aa1cb7c019ccc3fbe049a8262a6403d30504"
+		},
+		{
+			"ImportPath": "github.com/fatih/camelcase",
+			"Rev": "f6a740d52f961c60348ebb109adde9f4635d7540"
+		},
+		{
+			"ImportPath": "github.com/go-martini/martini",
+			"Comment": "v1.0-183-gb174c4f",
+			"Rev": "b174c4f35f9f3805e960be6286d888bc79534755"
+		},
+		{
+			"ImportPath": "github.com/martini-contrib/binding",
+			"Rev": "8aaceec3b52c275477f32c95ea5c6e8ccaba04c5"
+		},
+		{
+			"ImportPath": "github.com/martini-contrib/gorelic",
+			"Rev": "f8b0843aa3ab66d8734aa7d9acf399bdc197c65d"
+		},
+		{
+			"ImportPath": "github.com/oleiade/reflections",
+			"Comment": "0.1.2-2-g632977f",
+			"Rev": "632977f98cd34d217c4b57d0840ec188b3d3dcaf"
+		},
+		{
+			"ImportPath": "github.com/rockneurotiko/go-tgbot",
+			"Rev": "bdb72ff1ee71903d0ca99a144e17b023af5c9831"
+		},
+		{
+			"ImportPath": "github.com/rockneurotiko/gorequest",
+			"Comment": "v0.2.4-72-gb232713",
+			"Rev": "b232713e2cb2bbff22aaee93bfc94d0d1ceba115"
+		},
+		{
+			"ImportPath": "github.com/yvasiyarov/go-metrics",
+			"Rev": "c25f46c4b94079672242ec48a545e7ca9ebe3aec"
+		},
+		{
+			"ImportPath": "github.com/yvasiyarov/gorelic",
+			"Comment": "v0.0.6-38-g899fe5e",
+			"Rev": "899fe5e1be7138f2440c28e77532f0635c1249f1"
+		},
+		{
+			"ImportPath": "github.com/yvasiyarov/newrelic_platform_go",
+			"Rev": "db03d6dfd965ebc22dbfd910567c641b326ff055"
+		},
+		{
+			"ImportPath": "golang.org/x/net/publicsuffix",
+			"Rev": "e45385e9b226f570b1f086bf287b25d3d4117776"
+		}
+	]
+}
