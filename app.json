@@ -1,0 +1,5 @@
+{
+  "name": "echo-bot",
+  "description": "testbotapp",
+  "image": "heroku/go:1.6"
+}
